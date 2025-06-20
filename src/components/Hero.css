@@ -18,7 +18,7 @@
 .greet {
     background-color: transparent;
     z-index: 1;
-    font-family: 'Hasiant', sans-serif;
+    font-family: 'Hasiant';
     font-weight: 500;
     font-size: 7rem;
     color: white; /* Adjust color as needed */

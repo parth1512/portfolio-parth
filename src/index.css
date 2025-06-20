@@ -5,17 +5,16 @@
 }
 
 @font-face {
-  font-family: 'SF Pro';
-  src: url('/assets/fonts/SF-Pro.ttf') format('truetype');
-  font-weight: 500; /* Medium weight */
-  font-stretch: expanded; /* Expanded variant */
+  font-family: 'SF-Pro' ;
+  src: url('/assets/fonts/SF-20Pro.ttf') format('truetype');
+  
 }
 
 
 
 body{
   margin:0;
-  font-family: 'SF Pro', sans-serif;
+  font-family: 'SF-Pro';
   font-weight: 500; /* Medium weight */
   font-stretch: expanded;
   color: #ffffff; 
